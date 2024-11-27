@@ -1,4 +1,4 @@
-import { timeout, wait } from ".";
+import { timeout, wait } from "./index";
 
 describe("非同期処理", () => {
   describe("wait", () => {
